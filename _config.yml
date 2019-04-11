@@ -1,0 +1,18 @@
+---
+title: Adnrew Fitness
+timezone: GMT
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+email: naamanh10@gmail.com
+description:
+baseurl:
+url:
+markdown: kramdown
+plugins_dir: ./_plugins
+cloudinary_url: "http://res.cloudinary.com/njh101010/image/upload"

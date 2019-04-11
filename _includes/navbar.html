@@ -1,0 +1,35 @@
+<nav class="navbar navbar-expand-md fixed-top navbar-transparent" color-on-scroll="500">
+    <div class="container">
+        <div class="navbar-translate">
+            <button class="navbar-toggler navbar-toggler-right navbar-burger" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-bar"></span>
+                <span class="navbar-toggler-bar"></span>
+                <span class="navbar-toggler-bar"></span>
+            </button>
+            <a class="navbar-brand" href="{{site.url}}">Hessle Cricket Club</a>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarToggler">
+            <ul class="navbar-nav ml-auto">
+
+              {% for item in site.menus.header %}
+              {% if item.children %}
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle menu-item-{{ loop.index }}" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
+                    aria-expanded="false">{{ item.title }}</a>
+                  <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                    {% for item in item.children %}
+                    <a class="dropdown-item" href="{{site.github.url}}{{ item.url }}">{{ item.title }}</a>
+                    {% endfor %}
+                  </div>
+                </li>
+                {% else %}
+                <li class="nav-item menu-item-{{ loop.index }}">
+                  <a class="nav-link" href="{{site.github.url}}{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+                </li>
+                {% endif %}
+              {% endfor %}
+
+            </ul>
+        </div>
+    </div>
+</nav>
