@@ -14,5 +14,6 @@ description:
 baseurl:
 url:
 markdown: kramdown
-plugins_dir: ./_plugins
+plugins:
+  - jekyll-menus
 cloudinary_url: "http://res.cloudinary.com/njh101010/image/upload"
