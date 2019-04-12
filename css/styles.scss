@@ -6,3 +6,20 @@ $stylish-color-dark: #80EBB7;
 $special-color-dark: #263238;
 $special-color: #37474F;
 $unique-color: #3F729B;
+
+
+
+h1,h2,h3,h4 {
+  font-family: 'Anton', sans-serif;
+}
+
+.owl-item {
+  height: 100vh;
+  width: 100%;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
