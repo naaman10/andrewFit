@@ -1,0 +1,20 @@
+<div class="container-fluid mt-3">
+  <div class="row">
+    <div class="card-deck">
+
+      {% for post in site.posts %}
+        <div class="col-12 col-sm-3">
+          <div class="card">
+          <div class="card-body">
+            <h4 class="card-title"><a>{{post.title}}</a></h4>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+           <div class="card-footer">
+            <a href="{{site.url}}{{ post.url }}" class="btn btn-primary btn-block">Read more</a>
+          </div>
+        </div>
+        </div>
+      {% endfor %}
+      </div>
+      </div>
+  </div>
