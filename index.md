@@ -4,8 +4,6 @@ permalink: "/"
 layout: home
 pageTitle: Andrew Fit
 pageSubTitle: Personal Trainer
-homePageImage: "/v1551222313/hesslecc/assets/website2.jpg"
-homeBannerLink: "/about"
 slideOneImage: "/v1555414810/andrewFit/bg_1.jpg"
 slideOneHeader: We are the BodyFit Gym
 slideOneBody: A small river named Duden flows by their place and supplies it with
