@@ -18,8 +18,20 @@ fields:
   name: pageSubTitle
   label: pageSubTitle
 - type: file
-  name: homePageImage
-  label: homePageImage
+  name: slideOneImage
+  label: Slide One Image
 - type: text
-  name: homeBannerLink
-  label: homeBannerLink
+  name: slideOneHeader
+  label: Slide One Header Text
+- type: text
+  name: slideOneBody
+  label: Slide One Body Text
+- type: file
+  name: slideTwoImage
+  label: Slide Two Image
+- type: text
+  name: slideTwoHeader
+  label: Slide Two Header Text
+- type: text
+  name: slideTwoBody
+  label: Slide Two Body Text
