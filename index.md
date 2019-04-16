@@ -10,7 +10,7 @@ slideOneBody: A small river named Duden flows by their place and supplies it wit
   the necessary regelialia.
 slideOneButtonLink: about.md
 slideTwoImage: "/v1555415099/andrewFit/bg_2.jpg"
-slideTwoHeader: Challenge Yourself
+slideTwoHeader: BodyFit<small>Fitness</small> Personal Trainer
 slideTwoBody: A small river named Duden flows by their place and supplies it with
   the necessary regelialia.
 slideTwoButtonLink: about.md
