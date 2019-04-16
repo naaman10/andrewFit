@@ -6,6 +6,18 @@ pageTitle: Andrew Fit
 pageSubTitle: Personal Trainer
 homePageImage: "/v1551222313/hesslecc/assets/website2.jpg"
 homeBannerLink: "/about"
+slideOneImage: "/v1555414810/andrewFit/bg_1.jpg"
+slideOneHeader: We are the BodyFit Gym
+slideOneBody: A small river named Duden flows by their place and supplies it with
+  the necessary regelialia.
+slideOneButtonLink: about.md
+slideTwoImage: "/v1555415099/andrewFit/bg_2.jpg"
+slideTwoHeader: Challenge Yourself
+slideTwoBody: A small river named Duden flows by their place and supplies it with
+  the necessary regelialia.
+slideTwoButtonLink: about.md
+slideOneButtonText: Get Started Now
+slideTwoButtonText: Get Started Now
 
 ---
 Hessle Cricket Club are one of the oldest clubs in the Yorkshire region. Founded in 1838 we are in our 2nd century of cricket and still going strong!

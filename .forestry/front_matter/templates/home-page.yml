@@ -53,3 +53,5 @@ fields:
     source:
       type: pages
   label: Slide Two Button Link
+pages:
+- index.md
