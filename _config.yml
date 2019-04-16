@@ -10,6 +10,7 @@ collections:
     output: true
 defaults:
 email: naamanh10@gmail.com
+mobile: 07123456789
 description:
 baseurl:
 url:
