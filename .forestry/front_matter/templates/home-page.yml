@@ -26,6 +26,15 @@ fields:
 - type: text
   name: slideOneBody
   label: Slide One Body Text
+- type: text
+  name: slideOneButtonText
+  label: Slide One Button Text
+- type: select
+  config:
+    source:
+      type: pages
+  label: Slide One Button Link
+  name: slideOneButtonLink
 - type: file
   name: slideTwoImage
   label: Slide Two Image
@@ -35,3 +44,12 @@ fields:
 - type: text
   name: slideTwoBody
   label: Slide Two Body Text
+- type: text
+  name: slideTwoButtonText
+  label: Slide Two Button Text
+- type: select
+  name: slideTwoButtonLink
+  config:
+    source:
+      type: pages
+  label: Slide Two Button Link
