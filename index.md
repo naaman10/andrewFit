@@ -1,9 +1,9 @@
 ---
-title: WELCOME TO THE HESSLE CRICKET CLUB
+title: Home Page
 permalink: "/"
 layout: home
-pageTitle: Hessle Cricket Club
-pageSubTitle: Passionate about cricket since 1838
+pageTitle: Andrew Fit
+pageSubTitle: Personal Trainer
 homePageImage: "/v1551222313/hesslecc/assets/website2.jpg"
 homeBannerLink: "/about"
 
