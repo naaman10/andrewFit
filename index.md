@@ -22,6 +22,7 @@ slides:
   slide_image: "/v1555489723/andrewFit/BG.jpg"
   slide_button_text: Get Started Now
   slide_button_link: about.md
+  slide_name: Slide 1
 - slide_header: Andrew<small>Pitter</small>
   slide_body: Personal Trainer based in Manchester, focussing on combining fitness   with
     nutrition
