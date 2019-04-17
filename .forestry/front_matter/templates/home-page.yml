@@ -62,6 +62,9 @@ fields:
     labelField: slide_header
   fields:
   - type: text
+    name: slide_name
+    label: Slide Name
+  - type: text
     name: slide_header
     label: slide header
   - type: text
