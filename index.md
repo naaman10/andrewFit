@@ -29,6 +29,7 @@ slides:
   slide_image: "/v1555414810/andrewFit/bg_1.jpg"
   slide_button_text: Get Started Now
   slide_button_link: about.md
+  slide_name: Slide 2
 
 ---
 Hessle Cricket Club are one of the oldest clubs in the Yorkshire region. Founded in 1838 we are in our 2nd century of cricket and still going strong!
