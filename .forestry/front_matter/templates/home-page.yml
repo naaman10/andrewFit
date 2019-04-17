@@ -59,7 +59,7 @@ fields:
   config:
     min: '2'
     max: '4'
-    labelField: slide_header
+    labelField: slide_name
   fields:
   - type: text
     name: slide_name
