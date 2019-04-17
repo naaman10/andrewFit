@@ -16,6 +16,18 @@ slideTwoBody: A small river named Duden flows by their place and supplies it wit
 slideTwoButtonLink: about.md
 slideOneButtonText: Get Started Now
 slideTwoButtonText: Get Started Now
+slides:
+- slide_header: Get Started Now
+  slide_body: Get Started Now
+  slide_image: "/v1555489723/andrewFit/BG.jpg"
+  slide_button_text: Get Started Now
+  slide_button_link: about.md
+- slide_header: Andrew<small>Pitter</small>
+  slide_body: Personal Trainer based in Manchester, focussing on combining fitness   with
+    nutrition
+  slide_image: "/v1555414810/andrewFit/bg_1.jpg"
+  slide_button_text: Get Started Now
+  slide_button_link: about.md
 
 ---
 Hessle Cricket Club are one of the oldest clubs in the Yorkshire region. Founded in 1838 we are in our 2nd century of cricket and still going strong!
