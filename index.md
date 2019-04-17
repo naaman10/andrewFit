@@ -6,9 +6,10 @@ pageTitle: Andrew Fit
 pageSubTitle: Personal Trainer
 slideOneImage: "/v1555414810/andrewFit/bg_1.jpg"
 slideOneHeader: Andrew<small>Pitter</small>
-slideOneBody: Personal Trainer based in Manchester, focussing on combining fitness with nutrition
+slideOneBody: Personal Trainer based in Manchester, focussing on combining fitness
+  with nutrition
 slideOneButtonLink: about.md
-slideTwoImage: "/v1555415099/andrewFit/bg_2.jpg"
+slideTwoImage: "/v1555489723/andrewFit/BG.jpg"
 slideTwoHeader: Andrew<small>Pitter</small>
 slideTwoBody: A small river named Duden flows by their place and supplies it with
   the necessary regelialia.
