@@ -53,5 +53,32 @@ fields:
     source:
       type: pages
   label: Slide Two Button Link
+- type: field_group_list
+  name: slides
+  label: Slides
+  config:
+    min: '2'
+    max: '4'
+    labelField: slide_header
+  fields:
+  - type: text
+    name: slide_header
+    label: slide header
+  - type: text
+    name: slide_body
+    label: Slide Body
+  - type: file
+    name: slide_image
+    label: Slide Image
+  - type: text
+    name: slide_button_text
+    label: Slide Button Text
+  - type: select
+    name: slide_button_link
+    config:
+      source:
+        type: pages
+        section: jekyll-pages
+    label: Slide Button Link
 pages:
 - index.md
