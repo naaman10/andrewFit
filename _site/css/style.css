@@ -32,6 +32,11 @@ h1, h2, h3, h4, h5,
 
 .bg-black {
   background: #000 !important; }
+.bg-color {
+  background: #00A0A0 !important; }
+.testimonial-wrap {
+  background-color: #FDA49F !important;
+}
 
 .color-black-opacity-5 {
   color: rgba(0, 0, 0, 0.5); }
@@ -1701,7 +1706,7 @@ h1, h2, h3, h4, h5,
 .testimonial-wrap .owl-nav {
   display: none; }
 
-.home-slider::before {
+.home-slider.overlay::before {
   position: absolute;
   content: "";
   left: 0;
