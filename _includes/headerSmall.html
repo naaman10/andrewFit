@@ -1,0 +1,18 @@
+<section class="home-slider slider-small owl-carousel">
+  {% for slide in page.slides %}
+  <div class="slider-item" style="background-image: url({{site.cloudinary_url}}{{slide.slide_image}});">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row slider-text align-items-center" data-scrollax-parent="true">
+
+        <div class="col-md-5 col-sm-12 ftco-animate">
+          <h1 class="mb-4">{{slide.slide_header}}</h1>
+          <p class="mb-4 mb-md-5">{{slide.slide_body}}</p>
+          <p><a href="{{slide.slide_button_link}}" class="btn btn-primary p-3 px-xl-4 py-xl-3">{{slide.slide_button_text}}</a></p>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</section>

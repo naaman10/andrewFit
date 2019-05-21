@@ -15,6 +15,7 @@ description:
 baseurl:
 url:
 markdown: kramdown
+footerText: A short piece of text about what andrew pitter is
 plugins:
   - jekyll-menus
 cloudinary_url: "http://res.cloudinary.com/njh101010/image/upload"
