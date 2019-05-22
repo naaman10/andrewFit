@@ -1,12 +1,13 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 16/10/2018 07:46
+  	Creation date: 11/02/2019 11:47
   	*/
 
 @font-face {
   font-family: "Flaticon";
   src: url("./Flaticon.eot");
   src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
        url("./Flaticon.woff") format("woff"),
        url("./Flaticon.ttf") format("truetype"),
        url("./Flaticon.svg#Flaticon") format("svg");
@@ -24,18 +25,20 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
-        font-size: 20px;
-font-style: normal;
-margin-left: 20px;
+        font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-gym:before { content: "\f100"; }
-.flaticon-running:before { content: "\f101"; }
-.flaticon-workout:before { content: "\f102"; }
-.flaticon-woman:before { content: "\f103"; }
-.flaticon-stationary-bike:before { content: "\f104"; }
-.flaticon-heart:before { content: "\f105"; }
-.flaticon-meditation:before { content: "\f106"; }
-.flaticon-ruler:before { content: "\f107"; }
-.flaticon-abs:before { content: "\f108"; }
-.flaticon-tools-and-utensils:before { content: "\f109"; }
+.flaticon-mexican-taco:before { content: "\f100"; }
+.flaticon-house:before { content: "\f101"; }
+.flaticon-guitar:before { content: "\f102"; }
+.flaticon-gym:before { content: "\f103"; }
+.flaticon-shopping-bag:before { content: "\f104"; }
+.flaticon-cocktail:before { content: "\f105"; }
