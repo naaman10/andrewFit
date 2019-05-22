@@ -1,0 +1,22 @@
+---
+label: page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: pageTitle
+  label: pageTitle
+- type: text
+  name: pageSubTitle
+  label: pageSubTitle
+- type: text
+  name: pageImage
+  label: pageImage
