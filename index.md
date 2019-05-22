@@ -12,5 +12,11 @@ slides:
   slide_button_text: Get Started Now
   slide_button_link: about.md
   slide_name: Slide 1
+info-section: []
+mission:
+- number: '01'
+  title: My Values
+  statement: Lorem ipsum dolor sit amet consectetur adipisicing elit. Et praesentium
+    eos nulla qui commodi consectetur beatae fugiat. Veniam iste rerum perferendis.
 
 ---
