@@ -1,10 +1,10 @@
 ---
 title: Services
-permalink: /services
+permalink: "/services"
 layout: services
 pageTitle: Services
 pageSubTitle: About Hessle Cricket Club
-homePageImage: 'http://hesslecricketclub.co.uk/wp-content/uploads/DSC_0007.jpg'
+homePageImage: http://hesslecricketclub.co.uk/wp-content/uploads/DSC_0007.jpg
 slides:
 - slide_header: Services
   slide_body: Personal Trainer based in Manchester, focussing on combining fitness
@@ -15,6 +15,7 @@ slides:
   slide_name: Slide 1
 menu:
   header:
-    weight: 1
+    weight: 2
     identifier: services
+
 ---
