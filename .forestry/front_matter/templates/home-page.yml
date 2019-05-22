@@ -47,5 +47,70 @@ fields:
         type: pages
         section: jekyll-pages
     label: Slide Button Link
+- name: info-section
+  type: field_group_list
+  fields:
+  - name: icon
+    type: text
+    config:
+      required: false
+    label: Icon
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: body
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Body
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+  config:
+    min: 
+    max: 
+    labelField: title
+  label: info-section
+- name: mission
+  type: field_group_list
+  fields:
+  - name: number
+    type: number
+    label: Number
+    description: ''
+    default: '01'
+    required: true
+    config:
+      min: '01'
+      max: '03'
+      step: '1'
+      required: true
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: statement
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Statement
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Mission
 pages:
 - index.md
