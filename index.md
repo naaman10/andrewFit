@@ -13,6 +13,11 @@ slides:
   slide_button_link: about.md
   slide_name: Slide 1
 info-section:
+- icon: ''
+  title: Personal Training
+  body: Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam
+    nesciunt.
+  link: "/about"
 - icon: <i class="fas fa-burn"></i>
   title: Coaching
   link: "/coaching"
