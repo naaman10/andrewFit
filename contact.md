@@ -4,7 +4,7 @@ permalink: /contact
 layout: page
 pageTitle: Contact
 pageSubTitle: Your Plan. Your Diet. Your Journey
-pageImage: 
+pageImage: inset
 menu:
   header:
     weight: 1
