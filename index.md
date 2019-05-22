@@ -31,5 +31,15 @@ mission:
   title: 'My Philosophy '
   statement: Lorem ipsum dolor sit amet consectetur adipisicing elit. Et praesentium
     eos nulla qui commodi consectetur beatae fugiat. Veniam iste rerum perferendis.
+featured_clients:
+- name: example 3
+  client_image: "/v1558526384/andrewFit/placeholder-user.png"
+  purpose: Personal Training
+- name: example 2
+  client_image: "/v1558526384/andrewFit/placeholder-user.png"
+  purpose: Nutrition
+- name: example 1
+  client_image: "/v1558526384/andrewFit/placeholder-user.png"
+  purpose: Personal Training
 
 ---
