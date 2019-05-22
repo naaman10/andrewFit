@@ -12,27 +12,7 @@ slides:
   slide_button_text: Get Started Now
   slide_button_link: about.md
   slide_name: Slide 1
-info-section:
-- icon: <i class="fas fa-running"></i>
-  title: Personal Training
-  body: Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam
-    nesciunt.
-  link: "/about"
-- icon: <i class="fas fa-burn"></i>
-  title: Coaching
-  link: "/coaching"
-  body: Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam
-    nesciunt.
-- icon: <i class="fas fa-carrot"></i>
-  title: Nutrition
-  body: Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam
-    nesciunt.
-  link: "/about"
-- icon: <i class="fas fa-heartbeat"></i>
-  title: Physiotherapy
-  link: "/about"
-  body: Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam
-    nesciunt.
+info-section: []
 mission:
 - number: '01'
   title: My Values
