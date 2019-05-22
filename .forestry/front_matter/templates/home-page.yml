@@ -47,5 +47,37 @@ fields:
         type: pages
         section: jekyll-pages
     label: Slide Button Link
+- name: info-section
+  type: field_group_list
+  fields:
+  - name: icon
+    type: text
+    config:
+      required: false
+    label: Icon
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: body
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Body
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: info-section
 pages:
 - index.md
