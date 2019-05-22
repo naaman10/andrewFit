@@ -8,7 +8,7 @@ pageImage: ''
 pageimage: "/v1558545121/andrewFit/pexels-photo-1954524.jpg"
 menu:
   header:
-    weight: 1
+    weight: 3
     identifier: contact
 
 ---
