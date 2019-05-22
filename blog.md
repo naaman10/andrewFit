@@ -1,6 +1,6 @@
 ---
 title: Blog
-permalink: /blog
+permalink: "/blog"
 layout: page
 pageTitle: Blog
 pageSubTitle: Latest news and updates from Andrew Pitter
