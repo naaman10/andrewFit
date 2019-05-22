@@ -13,7 +13,7 @@ slides:
   slide_button_link: about.md
   slide_name: Slide 1
 info-section:
-- icon: ''
+- icon: <i class="fas fa-running"></i>
   title: Personal Training
   body: Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam
     nesciunt.
