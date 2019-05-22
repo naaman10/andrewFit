@@ -4,7 +4,6 @@ permalink: "/contact"
 layout: page
 pageTitle: Contact
 pageSubTitle: Your Plan. Your Diet. Your Journey
-pageImage: ''
 pageimage: "/v1558545121/andrewFit/pexels-photo-1954524.jpg"
 menu:
   header:
@@ -73,10 +72,10 @@ menu:
           <p class="mb-4">203 Fake St. Mountain View, San Francisco, California, USA</p>
 
           <p class="mb-0 font-weight-bold">Phone</p>
-          <p class="mb-4"><a href="#">+1 232 3235 324</a></p>
+          <p class="mb-4"><a href="tel:{{site.mobile}}">{{site.mobile}}</a></p>
 
           <p class="mb-0 font-weight-bold">Email Address</p>
-          <p class="mb-0"><a href="#">youremail@domain.com</a></p>
+          <p class="mb-0"><a href="mailto:{{site.email}}">{{site.email}}</a></p>
 
         </div>
 

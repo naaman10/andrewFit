@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: /about
-layout: default
+layout: page
 pageTitle: About
 pageSubTitle: About Hessle Cricket Club
 homePageImage: 'http://hesslecricketclub.co.uk/wp-content/uploads/DSC_0007.jpg'
