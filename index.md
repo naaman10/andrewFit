@@ -12,7 +12,12 @@ slides:
   slide_button_text: Get Started Now
   slide_button_link: about.md
   slide_name: Slide 1
-info-section: []
+info-section:
+- icon: <i class="fas fa-burn"></i>
+  title: Coaching
+  link: "/coaching"
+  body: Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam
+    nesciunt.
 mission:
 - number: '01'
   title: My Values
