@@ -17,6 +17,8 @@ fields:
 - type: text
   name: pageSubTitle
   label: pageSubTitle
-- type: text
-  name: pageImage
+- name: pageimage
+  type: file
+  config:
+    maxSize: 250
   label: pageImage
