@@ -9,33 +9,18 @@
   </div>
   <div class="container-fluid">
     <div class="row">
+      {% for featured_client in page.featured_clients %}
       <div class="col-md-6 col-lg-4">
         <a href="#" class="media-1">
-          <img src="https://theblushedlily.files.wordpress.com/2017/01/bbg-transformation-1.jpg?w=1400" alt="Image" class="img-fluid">
+          <img src="{{site.cloudinary_url}}{{featured_client.client_image}}" alt="Image" class="img-fluid">
           <div class="media-1-content">
-            <h2>Project Name 1</h2>
-            <span class="category">Web Application</span>
+            <h2>{{featured_client.name}}</h2>
+            <span class="category">{{featured_client.purpose}}</span>
           </div>
         </a>
       </div>
-      <div class="col-md-6 col-lg-4">
-        <a href="#" class="media-1">
-          <img src="images/img_2.jpg" alt="Image" class="img-fluid">
-          <div class="media-1-content">
-            <h2>Project Name 2</h2>
-            <span class="category">Branding</span>
-          </div>
-        </a>
-      </div>
-      <div class="col-md-6 col-lg-4">
-        <a href="#" class="media-1">
-          <img src="images/img_3.jpg" alt="Image" class="img-fluid">
-          <div class="media-1-content">
-            <h2>Project Name 3</h2>
-            <span class="category">Website</span>
-          </div>
-        </a>
-      </div>
+      {% endfor %}
+
 
       <div class="col-12 text-center mt-2">
         <a href="work.html" class="btn btn-primary btn-md">Show All Works</a>
