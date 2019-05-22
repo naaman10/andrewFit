@@ -112,5 +112,29 @@ fields:
     max: 
     labelField: 
   label: Mission
+- name: featured_clients
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
+  - name: client_image
+    type: file
+    config:
+      maxSize: 250
+    label: client_image
+    default: "/v1558526384/andrewFit/placeholder-user.png"
+  - name: purpose
+    type: text
+    config:
+      required: false
+    label: Purpose
+  config:
+    min: '3'
+    max: '3'
+    labelField: 
+  label: Featured Clients
 pages:
 - index.md
