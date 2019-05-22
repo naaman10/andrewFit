@@ -28,6 +28,11 @@ info-section:
   body: Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam
     nesciunt.
   link: "/about"
+- icon: <i class="fas fa-heartbeat"></i>
+  title: Physiotherapy
+  link: "/about"
+  body: Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam
+    nesciunt.
 mission:
 - number: '01'
   title: My Values
