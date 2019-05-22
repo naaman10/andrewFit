@@ -1,16 +1,17 @@
 ---
 title: Contact
-permalink: /contact
+permalink: "/contact"
 layout: page
 pageTitle: Contact
 pageSubTitle: Your Plan. Your Diet. Your Journey
-pageImage: inset
+pageImage: ''
+pageimage: "/v1558545121/andrewFit/pexels-photo-1954524.jpg"
 menu:
   header:
     weight: 1
     identifier: contact
----
 
+---
 <div class="site-section bg-light">
   <div class="container">
     <div class="row">
