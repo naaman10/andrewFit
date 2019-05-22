@@ -2,21 +2,7 @@
 layout: default
 ---
 
-<div class="wrapper">
-    <div class="page-header page-header-xs" data-parallax="true" style="background-image: url('{{ site.cloudinary_url }}{{page.pageBanner}}');">
-  <div class="filter"></div>
-  <div class="motto text-center">
-      <h1>{{page.pageTitle}}</h1>
-  </div>
-</div>
+{% include headerSmall.html %}
 
 
-<section id="bodyMain">
-  <div class="container">
-    <div class="row">
-      <div class="col">
         {{ content }}
-      </div>
-    </div>
-  </div>
-</section>
