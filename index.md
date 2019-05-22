@@ -23,6 +23,11 @@ info-section:
   link: "/coaching"
   body: Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam
     nesciunt.
+- icon: <i class="fas fa-carrot"></i>
+  title: Nutrition
+  body: Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ab nihil quam
+    nesciunt.
+  link: "/about"
 mission:
 - number: '01'
   title: My Values
