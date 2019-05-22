@@ -15,7 +15,7 @@ slides:
   slide_name: Slide 1
 menu:
   header:
-    weight: 3
+    weight: 2
     identifier: services
 
 ---

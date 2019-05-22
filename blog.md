@@ -7,7 +7,7 @@ pageSubTitle: Latest news and updates from Andrew Pitter
 homePageImage: 
 menu:
   header:
-    weight: 1
+    weight: 3
     identifier: about
 
 ---
