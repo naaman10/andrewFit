@@ -23,4 +23,5 @@ fields:
     maxSize: 250
   label: pageImage
 pages:
+- about.md
 - contact.md
