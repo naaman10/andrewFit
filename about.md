@@ -9,5 +9,4 @@ menu:
   header:
     weight: 1
     identifier: about
-
 ---
