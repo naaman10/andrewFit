@@ -1,0 +1,25 @@
+---
+label: posts
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: layout
+  label: layout
+- type: file
+  name: post_image
+  label: post_image
+- type: text
+  name: imageLargeAlt
+  label: imageLargeAlt
+- type: text
+  name: author
+  label: author
+- type: text
+  name: categories
+  label: categories
