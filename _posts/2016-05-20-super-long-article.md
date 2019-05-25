@@ -1,11 +1,11 @@
 ---
 title: My Top Breakfast Recipes
-date: 2019-05-25T00:00:00.000+00:00
+date: 2019-05-25
 layout: post
 post_image: "/v1558779437/andrewFit/pexels-photo-566566.jpg"
 imageLargeAlt: A nice big picture
-author: Andrew pitter
-categories: Nutrition
+author: Andrew Pitter
+category: Nutrition
 
 ---
 The AGM for year 2018 will take place at the cricket club on Monday 21 January 2019, 7.30pm start

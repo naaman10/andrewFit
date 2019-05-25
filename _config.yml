@@ -18,4 +18,7 @@ markdown: kramdown
 footerText: A short piece of text about what andrew pitter is
 plugins:
   - jekyll-menus
+  - jekyll-paginate
 cloudinary_url: "http://res.cloudinary.com/njh101010/image/upload"
+paginate: 6
+paginate_path: "/blog/page/:num"
