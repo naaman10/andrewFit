@@ -1,6 +1,5 @@
 ---
 title: Blog
-permalink: "/blog"
 layout: page
 pageTitle: Blog
 pageSubTitle: Latest news and updates from Andrew Pitter
@@ -15,6 +14,7 @@ menu:
 <section class="site-section">
   <div class="container">
     <div class="row">
+
     <!-- This loops through the paginated posts -->
     {% for post in paginator.posts %}
       <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
@@ -80,3 +80,18 @@ menu:
     </div>
   </div>
 </section>
+<script>
+var posts = [
+  {% for post in site.posts %}
+    {
+      "title": "{{ post.title }}",
+      "category": "{{ post.category }}",
+      "url": "{{ post.url }}",
+      "image": "{{post.post_image}}",
+      "author": "{{post.author}}",
+      "date": "{{post.date}}"
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+];
+</script>
