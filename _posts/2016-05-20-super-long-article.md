@@ -5,17 +5,14 @@ layout: post
 post_image: "/v1558779437/andrewFit/pexels-photo-566566.jpg"
 imageLargeAlt: A nice big picture
 author: Andrew Pitter
+categories: ''
 category: Nutrition
 
 ---
-The AGM for year 2018 will take place at the cricket club on Monday 21 January 2019, 7.30pm start
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-This is the memberships chance to find out more about what shape the club is in, where we are aiming to go and have your say in how we go about it.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-There will be information on the clubs financial position, progress against business plans and a chance to put people forward to be involved in the running of the club whether it is on the management team, our vibrant junior section, work as ground staff or team captaincy.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-All members welcome – please make an effort to get involved and support the exciting times ahead for Hessle Cricket Club.
-
-If you are thinking of standing for a role, nominations need to be with Secretary Steve Cooper by Friday 18 January 2019.  Simply email the club at hesslecricketclub1838@hotmail.com    All roles are listed on the nomination sheet and need to be seconded by another club member.
-
-For further information about the meeting, please see below notice, agenda and nomination forms.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
