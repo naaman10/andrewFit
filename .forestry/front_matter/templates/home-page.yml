@@ -17,6 +17,11 @@ fields:
 - type: text
   name: pageSubTitle
   label: pageSubTitle
+- name: main_image
+  type: file
+  config:
+    maxSize: 250
+  label: Main Image
 - type: field_group_list
   name: slides
   label: Slides
